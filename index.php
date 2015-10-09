@@ -1,3 +1,3 @@
 <?php
-echo "Modif ok";
+echo "Test fix";
 ?>
